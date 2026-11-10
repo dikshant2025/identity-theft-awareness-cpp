@@ -1,8 +1,8 @@
 # Identity Theft Prevention: Interactive Guide (C++)
 
-A menu-driven C++ program that teaches users about identity theft. Built by a **team of 5** for a C++ programming course at Jacksonville State University (Nov 2024).
+A menu-driven C++ program that teaches users about identity theft. Built for a group assignment in a C++ programming course at Jacksonville State University (Nov 2024).
 
-**My part: the Risk Factors section.** It lists 12 common risk factors, each with a keyword, and lets the user search `RiskFactor.txt` by keyword (or view everything) as many times as they want. Teammates built the Introduction, Preventive Measures, Quiz and Resources sections. Each person's standalone module is in `modules/`, and `Group4.cpp` combines them into one program.
+**I wrote all of the code.** The program has five sections: Introduction, Risk Factors, Preventive Measures, Quiz and Resources. Each section was first written as a standalone program (in `modules/`), and `Group4.cpp` combines them into one menu-driven program.
 
 ## Features
 - Section menu backed by an `enum` with input validation.

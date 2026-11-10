@@ -1,12 +1,8 @@
 /*
-Group Project
-Group-4(Identity theft prevention)
-Introduction - Nathaniel McClure
-Risk Factor - Dikshant Shrestha
-Preventive Measures - Oliver Porter
-Quiz - Aleah Knoeles
-Resouces - Zabdiel Rosario
-Author: Dikshant Shrestha, Nathaniel McClure, Oliver Porter, Aleah Knowles, Zabdiel Rosario
+Identity Theft Prevention: Interactive Guide
+Group project (Group 4)
+Sections: Introduction, Risk Factors, Preventive Measures, Quiz, Resources
+Author: Dikshant Shrestha
 Date: 11/24/2024
 */
 
